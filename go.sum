@@ -1,4 +1,2 @@
-github.com/renovate-support/feature-13477-private v0.0.0-20220113222247-9c35ae0bd5d2 h1:aB0zLfr/2wb7AsXpX0HLj4C0+QBV6NwEP2bFdkmG/10=
-github.com/renovate-support/feature-13477-private v0.0.0-20220113222247-9c35ae0bd5d2/go.mod h1:PFU5w6iVWaZeulqB6BuYtPZkXjmynotgynAndKIr8RM=
-github.com/renovate-support/feature-13477-private v0.0.0-20220113222602-0fc12fd28571 h1:yZ+HPtlykhF2Moof5NU10kwPZFntDDznMSV/dNFp07U=
-github.com/renovate-support/feature-13477-private v0.0.0-20220113222602-0fc12fd28571/go.mod h1:/ZI05Wkke8MGbjPQ2PUTsJiXqJeau+oe+vw9s5EdGck=
+github.com/renovate-support/feature-13477-private v0.0.0-20220113235404-9f9fe3d3fb81 h1:rjIIqyv15F0aNUEmMQ2YwLbEaCDFizgf5sqmDa1j/po=
+github.com/renovate-support/feature-13477-private v0.0.0-20220113235404-9f9fe3d3fb81/go.mod h1:/ZI05Wkke8MGbjPQ2PUTsJiXqJeau+oe+vw9s5EdGck=
